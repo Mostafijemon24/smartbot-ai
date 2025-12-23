@@ -1,2 +1,3 @@
-# smartbot-ai
-Lightweight AI chatbot plugin for WordPress websites.
+# SmartBot AI
+
+A lightweight AI chatbot plugin for WordPress websites.
